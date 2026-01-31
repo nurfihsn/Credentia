@@ -33,4 +33,4 @@ The script produces usernames, emails, Indonesian-style phone numbers, and stron
   Python reference:
   [https://docs.python.org/3/library/string.html](https://docs.python.org/3/library/string.html)
 
----
+
